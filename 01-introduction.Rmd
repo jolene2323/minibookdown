@@ -1,0 +1,10 @@
+
+# Introduction
+
+Welcome to my minibookdown.
+
+I wrote this book as part of my homework for my Git and GitHub class through Library Juice Academy.
+
+This is the first book I've created in Git.
+
+I hope you enjoy it!
