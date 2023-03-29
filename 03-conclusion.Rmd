@@ -1,0 +1,8 @@
+
+# Conclusion
+
+Alas, we have come to the end of the book. I hope you learned alot
+
+I've learned alot creating the book, and hope to be able to do more in Git.
+
+Thanks for reading!
